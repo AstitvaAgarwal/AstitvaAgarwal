@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Astitva Agarwal</h1>
-<h3 align="center">A hard-working and dedicated Computer Science and Cyberphysical Systems student, with a passion for pursuing his dreams in the field of Artificial Intelligence, Machine Learning, and Cybersecurity.</h3>
+<h3 align="center">A hard-working and dedicated Computer Science and Cyberphysical Systems student, with a passion for pursuing his dreams in the field of Artificial Intelligence, Machine Learning, and Game Development.</h3>
 
-- 🌱 I’m currently learning **Cyberphysical Systems**
+- 🌱 I’m currently learning **Game Development**
 
-- 👯 I’m looking to collaborate on **AI/ML, Cybersecurity Projects**
+- 👯 I’m looking to collaborate on **AI/ML, Game Development**
 
 - 📫 How to reach me **agarwalrshbh@gmail.com**
 
